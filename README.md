@@ -1,12 +1,12 @@
 ###############################################################################
-# Filename: README.md for the code for paper 'https://arxiv.org/pdf/2411.12014'
-# Title: ON-THE-GO PATH PLANNING AND REPAIR IN STATIC AND DYNAMIC SCENARIOS
-# Author: Daniel Ajeleye
-# Code date: Nov 2023
+##### Filename: README.md for the code for paper 'https://arxiv.org/pdf/2411.12014'
+##### Title: ON-THE-GO PATH PLANNING AND REPAIR IN STATIC AND DYNAMIC SCENARIOS
+##### Author: Daniel Ajeleye
+##### Code date: Nov 2023
 ###############################################################################
 
 #------------------------------------------------------------------------------
-# How to run the code:
+##### How to run the code:
 #------------------------------------------------------------------------------
 
 To run this code, one has to provide the required parameters as inputs
